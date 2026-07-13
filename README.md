@@ -1,13 +1,16 @@
 <div align="center">
 
-# Gautam Dhameja
+# Hi, I'm Gautam.
 
 **I build AI systems, products, and teams.**
 
-[![Website](https://img.shields.io/badge/Website-gautamdhameja.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://www.gautamdhameja.com/)
-[![Proferent](https://img.shields.io/badge/Proferent-Enterprise_AI-2563eb?style=for-the-badge)](https://www.proferent.ai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gautamdhameja-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautamdhameja/)
-[![YouTube](https://img.shields.io/badge/YouTube-Fine_Tuned-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GautamDhameja)
+[Website](https://www.gautamdhameja.com/) ·
+[Proferent](https://www.proferent.ai/) ·
+[Blog](https://www.gautamdhameja.com/posts/) ·
+[LinkedIn](https://www.linkedin.com/in/gautamdhameja/) ·
+[YouTube](https://www.youtube.com/@GautamDhameja)
+
+<sub>Enterprise AI · Agents · Local AI · On-device ML · Distributed Systems</sub>
 
 </div>
 
@@ -23,7 +26,7 @@ I build what I advise on: applied AI systems, local AI tools, on-device ML appli
 | [Memorable](https://apps.apple.com/us/app/memorable-ai-photo-search/id6762152034) | On-device AI | A production iOS app using CLIP-based semantic photo search. I worked on Core ML conversion, local inference, OCR, and time and location search. |
 | [Sonar](https://github.com/gautamdhameja/sonar) | Local AI | A desktop app that creates role-specific codebase briefings with source citations, repository indexing, retrieval, memory graphs, and local LLM support. |
 
-## Working Areas
+## Focus Areas
 
 <table>
   <tr>
@@ -55,10 +58,3 @@ Before founding Proferent, I spent 15+ years building and leading software teams
 
 </details>
 
----
-
-<div align="center">
-
-[Website](https://www.gautamdhameja.com/) · [Blog](https://www.gautamdhameja.com/posts/) · [LinkedIn](https://www.linkedin.com/in/gautamdhameja/) · [X](https://x.com/gautamdhameja) · [YouTube](https://www.youtube.com/@GautamDhameja)
-
-</div>
