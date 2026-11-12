@@ -7,23 +7,20 @@
 [Website](https://www.gautamdhameja.com/) ·
 [Proferent](https://www.proferent.ai/) ·
 [Blog](https://www.gautamdhameja.com/posts/) ·
-[LinkedIn](https://www.linkedin.com/in/gautamdhameja/) ·
-[YouTube](https://www.youtube.com/@GautamDhameja)
+[LinkedIn](https://www.linkedin.com/in/gautamdhameja/)
 
-<sub>Enterprise AI · Agents · Local AI · On-device ML · Distributed Systems</sub>
+<sub>Applied AI · Agents · Local Inference · Distributed Systems</sub>
 
 </div>
 
-I am the founder of [Proferent](https://www.proferent.ai/), where I help companies plan, build, and deploy enterprise AI systems. My work spans use-case discovery, workflow redesign, solution architecture, RAG, agents, evaluations, human-in-the-loop controls, and hands-on delivery.
+I run [Proferent](https://www.proferent.ai/), where I help companies plan, build, and deploy applied AI systems. My work spans use-case discovery, workflow redesign, solution architecture, RAG, agents, evaluations, human-in-the-loop controls, and hands-on delivery.
 
-I build what I advise on: applied AI systems, local AI tools, on-device ML applications, agent infrastructure, cloud platforms, IoT systems, and distributed systems.
-
-## Now Building
+## Recent Projects
 
 | Project | Focus | Notes |
 | --- | --- | --- |
 | [Birbal](https://github.com/gautamdhameja/birbal) | Agent harness | TypeScript agent infrastructure with model adapters, tool execution, configurable pipelines, evaluations, and tracing. It powers my enterprise AI research newsletter, Birbal Brief. |
-| [Memorable](https://apps.apple.com/us/app/memorable-ai-photo-search/id6762152034) | On-device AI | A production iOS app using CLIP-based semantic photo search. I worked on Core ML conversion, local inference, OCR, and time and location search. |
+| [Memorable](https://github.com/gautamdhameja/memorable) | On-device AI | An iOS app using CLIP-based semantic photo search. I worked on Core ML conversion, local inference, OCR, and time and location search. |
 | [Sonar](https://github.com/gautamdhameja/sonar) | Local AI | A desktop app that creates role-specific codebase briefings with source citations, repository indexing, retrieval, memory graphs, and local LLM support. |
 
 ## Focus Areas
@@ -44,7 +41,6 @@ I build what I advise on: applied AI systems, local AI tools, on-device ML appli
 I write about enterprise AI architecture, AI agents, LLM inference, AI adoption, and engineering systems.
 
 - Essays and field notes: [gautamdhameja.com/posts](https://www.gautamdhameja.com/posts/)
-- AI adoption conversations: [Fine Tuned](https://www.youtube.com/@GautamDhameja)
 - Advisory and implementation work: [Proferent](https://www.proferent.ai/)
 
 <details>
